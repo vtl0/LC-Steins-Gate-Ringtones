@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.34f1
+CRC: 3495992428
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d492a2e7cba2cc7f93e98a4fae446a75
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f021ca9b605ec1a20178f33c268b725e
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Customizations/Precaution_Ringtone.wav
+- Assets/Customizations/Easygoingness_Ringtone.wav
+- Assets/Customizations/Village_Ringtone.wav
+- Assets/Customizations/GateOfSteiner_Ringtone.wav
+- Assets/Customizations/Reunion_Ringtone.wav
+- Assets/Customizations/OverTheSky_Ringtone.wav
+Dependencies: []

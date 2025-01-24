@@ -1,0 +1,10 @@
+{
+  "name": "SteinsGate Ringtones",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/vtl0/LC-Steins-Gate-Ringtones",
+  "description": "Steins Gate game ringtones for LethalPhones mod",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "Scoops-LethalPhones-1.1.5"
+  ]
+}
